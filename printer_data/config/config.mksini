@@ -4,7 +4,7 @@ value                          = qzz4avsj
 
 
 [device_state]
-state                          = error_0.00
+state                          = standby_0.00
 
 
 [target]
