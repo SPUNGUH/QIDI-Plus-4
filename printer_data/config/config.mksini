@@ -1,0 +1,36 @@
+
+[device_code]
+value                          = v3wxz30h
+
+
+[device_state]
+state                          = standby_0.00
+
+
+[target]
+heaterbed                      = 100
+hot                            = 60
+extruder                       = 305
+
+
+[total]
+time                           = 29364
+
+
+[led]
+enable                         = 0
+
+
+[pops]
+pop_1                          = false
+pop_2                          = false
+
+
+[mks_ethernet]
+enable                         = 0
+
+
+[app_connection]
+method                         = 1
+
+
