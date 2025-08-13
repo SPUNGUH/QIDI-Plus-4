@@ -4,7 +4,7 @@ value                          = 9kh31mk6
 
 
 [device_state]
-state                          = printing_0.00
+state                          = error_0.00
 
 
 [target]
