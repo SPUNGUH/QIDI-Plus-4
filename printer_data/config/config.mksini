@@ -4,7 +4,7 @@ value                          = NULL
 
 
 [device_state]
-state                          = standby_0.00
+state                          = printing_0.00
 
 
 [target]
